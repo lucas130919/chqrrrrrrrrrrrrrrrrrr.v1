@@ -23,7 +23,7 @@ local Tabela = {
 		["Hakaishin"] = 				{Locked = {7237606225}},
 		["Boss"] = 					{Locked = {7237606225}},
 		["JP6"] = 					{Tier = 1,Permission = {7237606225}},
-		["Gojo"] = 					{Tier = 1,Permission = {7237606225}}, -- perm temp
+		["Gojo"] = 					{Tier = 1,Permission = {7237606225,7070539076}}, -- perm temp
 	}
 
 }
