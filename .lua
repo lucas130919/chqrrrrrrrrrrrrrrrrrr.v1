@@ -11,7 +11,7 @@ local Tabela = {
     },
     
     CharacterTier = {
-        ["Enrico"] =                     {Tier = 1,Permission = {7237606225}},
+        ["Enrico"] =                     {Tier = 1,Permission = {9592003273}},
                 ["DIO"] =                     {Tier = 1,Permission = {9592003273}},
                 ["Madara"] =                     {Tier = 1,Permission = {9592003273}},
                 ["Koku"] =                     {Tier = 1,Permission = {9592003273}},
