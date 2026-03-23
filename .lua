@@ -1,7 +1,7 @@
 local Tabela = {
 	PlayerPermission = {
 		["Zekeyws"] = 			{Tier = 2000},
-		["ExTnoCraK"] = 			{Tier = 2000},
+		["theking130933"] = 			{Tier = 2000},
 		["zkywss"] = 				{Tier = 2000},
 		["DellsLakash"] = 			{Tier = 1},
 		["Renan2809"] = 			{Tier = 1},
@@ -11,11 +11,11 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Tier = 1,Permission = {9592003273}},
+		["Enrico"] = 					{Tier = 1,Permission = {7237606225}},
 		["DIO"]	=					{Locked = {9592003273}},
 		["Madara"]	=				{Locked = {36651812,785068132,1569341667}},
 		["Koku"]	=				{Locked = {785068132,1569341667}},
-		["Yori"]	=				{Permission = {9592003273}},
+		["Yori"]	=				{Permission = {9592003273,7237606225}},
 		["Meliodas"]	=				{Permission = {629259254,629259254,785068132,3108673472,1569341667,1651965881}},
 		["Goku"]	=				{Locked = {785068132,1569341667}},
 		["TOP"]	=					{Locked = {785068132,128677359,1569341667}},
