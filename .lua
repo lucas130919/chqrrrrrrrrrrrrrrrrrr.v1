@@ -15,7 +15,7 @@ local Tabela = {
                 ["DIO"] =                     {Tier = 1,Permission = {9592003273,3128190107}},
                 ["Madara"] =                     {Tier = 1,Permission = {9592003273,3128190107}},
                 ["Koku"] =                     {Tier = 1,Permission = {9592003273,3128190107}},
-        ["Yori"]    =                {Permission = {9592003273,3128190107}},
+        ["Yori"]    =                {Permission = {9592003273,3128190107,3579360483}},
         ["Meliodas"]    =                {Permission = {9592003273,3128190107}},
                 ["Goku"] =                     {Tier = 1,Permission = {9592003273,3128190107}},
                 ["TOP"] =                     {Tier = 1,Permission = {9592003273,3128190107}},
