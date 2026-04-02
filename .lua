@@ -5,25 +5,25 @@ local Tabela = {
 		[""] = 				{Tier = 2000},
 		["peque12a"] = 			{Tier = 1},
 		["GabrielFS070"] = 			{Tier = 1},
-		[""] = 			{Tier = 1},
+		["GIqTXvPQArG"] = 			{Tier = 1},
 		[""] = 				{Tier = 1},
 		[""] = 			{Tier = 1},
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Tier = 1,Permission = {9592003273}},
-		["DIO"]	=					{Locked = {9592003273}},
-		["Madara"]	=				{Locked = {9592003273}},
-		["Koku"]	=				{Locked = {9592003273}},
-		["Yori"]	=				{Permission = {9592003273}},
+		["Enrico"] = 					{Tier = 1,Permission = {9592003273,7396145974}},
+		["DIO"]	=					{Locked = {9592003273,7396145974}},
+		["Madara"]	=				{Locked = {9592003273,7396145974}},
+		["Koku"]	=				{Locked = {9592003273,7396145974}},
+		["Yori"]	=				{Permission = {9592003273,7396145974}},
 		["Meliodas"]	=				{Permission = {9592003273}},
-		["Goku"]	=				{Locked = {9592003273}},
+		["Goku"]	=				{Locked = {9592003273,7396145974}},
 		["TOP"]	=					{Locked = {9592003273}},
 		["Giorno"] = 					{Tier = 1050,Permission = {9592003273}},
 		["Hakaishin"] = 				{Locked = {9592003273}},
 		["Boss"] = 					{Locked = {9592003273}},
-		["JP6"] = 					{Tier = 1,Permission = {9592003273}},
-		["Gojo"] = 					{Tier = 1,Permission = {9592003273}}, -- perm temp
+		["JP6"] = 					{Tier = 1,Permission = {9592003273,7396145974}},
+		["Gojo"] = 					{Tier = 1,Permission = {9592003273,7396145974}}, -- perm temp
 	}
 
 }
