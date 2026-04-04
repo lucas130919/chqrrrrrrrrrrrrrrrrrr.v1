@@ -11,7 +11,7 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Tier = 1,Permission = {9592003273,7396145974,5444012477}},
+		["Enrico"] = 					{Tier = 1,Permission = {9592003273,7396145974,5444012477,4243827319}},
 		["DIO"]	=					{Locked = {9592003273,7396145974}},
 		["Madara"]	=				{Locked = {9592003273,7396145974}},
 		["Koku"]	=				{Locked = {9592003273,7396145974}},
@@ -22,8 +22,8 @@ local Tabela = {
 		["Giorno"] = 					{Tier = 1050,Permission = {9592003273,5444012477}},
 		["Hakaishin"] = 				{Locked = {9592003273}},
 		["Boss"] = 					{Locked = {9592003273}},
-		["JP6"] = 					{Tier = 1,Permission = {9592003273,7396145974}},
-		["Gojo"] = 					{Tier = 1,Permission = {9592003273,7396145974}}, -- perm temp
+		["JP6"] = 					{Tier = 1,Permission = {9592003273,7396145974,4243827319}},
+		["Gojo"] = 					{Tier = 1,Permission = {9592003273,7396145974,4243827319}}, -- perm temp
 	}
 
 }
