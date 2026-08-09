@@ -19,7 +19,7 @@ local Tabela = {
 		["Koku"]	=				{Locked = {9592003273}},
 		["Yori"]	=				{Permission = {9592003273,3937637463}},
 		["Meliodas"]	=				{Permission = {9592003273,3937637463}},
-		["Goku"]	=				{Locked = {9592003273}},
+		["Goku"]	=				{Permission = {9592003273,724152595}},
 		["TOP"]	=					{Locked = {9592003273}},
 		["Giorno"] = 					{Tier = 1050,Permission = {9592003273,3937637463}},
 		["Hakaishin"] = 				{Permission = {9592003273,10761648167,3937637463}},
